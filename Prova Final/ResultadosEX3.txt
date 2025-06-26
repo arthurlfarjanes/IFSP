@@ -1,0 +1,20 @@
+--------------------- CONSULTA 1 ---------------------
+Nome do Médico: Arthur
+Nome do Paciente: Adriano
+Data: 25/03/2025
+Hora: 13:30:15
+
+--------------------- CONSULTA 2 ---------------------
+Nome do Médico: Felipe
+Nome do Paciente: Arthur
+Data: 12/08/2025
+Hora: 12:30:00
+
+--------------------- CONSULTA 1 ATUALIZADA ---------------------
+Nome do Médico: Arthur
+Nome do Paciente: Adriano
+Data: 12/09/2025
+Hora: 13:00:00
+
+-------------------------------------------------------
+Quantidade de consultas agendadas: 2
