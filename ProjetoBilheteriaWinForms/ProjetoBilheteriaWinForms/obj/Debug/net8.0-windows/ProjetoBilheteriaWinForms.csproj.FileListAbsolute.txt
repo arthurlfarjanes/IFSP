@@ -1,0 +1,16 @@
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\bin\Debug\net8.0-windows\ProjetoBilheteriaWinForms.exe
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\bin\Debug\net8.0-windows\ProjetoBilheteriaWinForms.deps.json
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\bin\Debug\net8.0-windows\ProjetoBilheteriaWinForms.runtimeconfig.json
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\bin\Debug\net8.0-windows\ProjetoBilheteriaWinForms.dll
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\bin\Debug\net8.0-windows\ProjetoBilheteriaWinForms.pdb
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\ProjetoBilheteriaWinForms.Form1.resources
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\ProjetoBilheteriaWinForms.csproj.GenerateResource.cache
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\ProjetoBilheteriaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\ProjetoBilheteriaWinForms.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\ProjetoBilheteriaWinForms.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\ProjetoBilheteriaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\ProjetoBilheteriaWinForms.dll
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\refint\ProjetoBilheteriaWinForms.dll
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\ProjetoBilheteriaWinForms.pdb
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\ProjetoBilheteriaWinForms.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms\obj\Debug\net8.0-windows\ref\ProjetoBilheteriaWinForms.dll

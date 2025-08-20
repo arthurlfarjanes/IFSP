@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoBilheteriaWinForms", "ProjetoBilheteriaWinForms\ProjetoBilheteriaWinForms.csproj", "{787710EC-9E34-4245-89AD-D1772E59CE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787710EC-9E34-4245-89AD-D1772E59CE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787710EC-9E34-4245-89AD-D1772E59CE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787710EC-9E34-4245-89AD-D1772E59CE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787710EC-9E34-4245-89AD-D1772E59CE47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C795EB98-4EFF-42A2-9575-21E10674630C}
+	EndGlobalSection
+EndGlobal
