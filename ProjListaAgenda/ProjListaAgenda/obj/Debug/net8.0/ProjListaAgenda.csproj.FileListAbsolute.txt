@@ -1,0 +1,14 @@
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\bin\Debug\net8.0\ProjListaAgenda.exe
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\bin\Debug\net8.0\ProjListaAgenda.deps.json
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\bin\Debug\net8.0\ProjListaAgenda.runtimeconfig.json
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\bin\Debug\net8.0\ProjListaAgenda.dll
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\bin\Debug\net8.0\ProjListaAgenda.pdb
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\obj\Debug\net8.0\ProjListaAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\obj\Debug\net8.0\ProjListaAgenda.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\obj\Debug\net8.0\ProjListaAgenda.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\obj\Debug\net8.0\ProjListaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\obj\Debug\net8.0\ProjListaAgenda.dll
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\obj\Debug\net8.0\refint\ProjListaAgenda.dll
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\obj\Debug\net8.0\ProjListaAgenda.pdb
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\obj\Debug\net8.0\ProjListaAgenda.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\ProjListaAgenda\ProjListaAgenda\obj\Debug\net8.0\ref\ProjListaAgenda.dll
