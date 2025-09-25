@@ -1,0 +1,16 @@
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\bin\Debug\net8.0-windows\ProjAgendaWinForms.exe
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\bin\Debug\net8.0-windows\ProjAgendaWinForms.deps.json
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\bin\Debug\net8.0-windows\ProjAgendaWinForms.runtimeconfig.json
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\bin\Debug\net8.0-windows\ProjAgendaWinForms.dll
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\bin\Debug\net8.0-windows\ProjAgendaWinForms.pdb
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\ProjAgendaWinForms.Form1.resources
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\ProjAgendaWinForms.csproj.GenerateResource.cache
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\ProjAgendaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\ProjAgendaWinForms.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\ProjAgendaWinForms.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\ProjAgendaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\ProjAgendaWinForms.dll
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\refint\ProjAgendaWinForms.dll
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\ProjAgendaWinForms.pdb
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\ProjAgendaWinForms.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\ProjAgendaWinForms\ProjAgendaWinForms\obj\Debug\net8.0-windows\ref\ProjAgendaWinForms.dll
