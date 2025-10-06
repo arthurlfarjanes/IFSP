@@ -1,0 +1,14 @@
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\bin\Debug\net8.0\ProjListBiblioteca.exe
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\bin\Debug\net8.0\ProjListBiblioteca.deps.json
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\bin\Debug\net8.0\ProjListBiblioteca.runtimeconfig.json
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\bin\Debug\net8.0\ProjListBiblioteca.dll
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\bin\Debug\net8.0\ProjListBiblioteca.pdb
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\obj\Debug\net8.0\ProjListBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\obj\Debug\net8.0\ProjListBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\obj\Debug\net8.0\ProjListBiblioteca.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\obj\Debug\net8.0\ProjListBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\obj\Debug\net8.0\ProjListBiblioteca.dll
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\obj\Debug\net8.0\refint\ProjListBiblioteca.dll
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\obj\Debug\net8.0\ProjListBiblioteca.pdb
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\obj\Debug\net8.0\ProjListBiblioteca.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\ProjListBiblioteca\ProjListBiblioteca\obj\Debug\net8.0\ref\ProjListBiblioteca.dll
