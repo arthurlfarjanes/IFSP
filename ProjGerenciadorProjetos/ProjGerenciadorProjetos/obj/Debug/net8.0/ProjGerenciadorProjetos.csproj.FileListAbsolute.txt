@@ -1,0 +1,14 @@
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\bin\Debug\net8.0\ProjGerenciadorProjetos.exe
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\bin\Debug\net8.0\ProjGerenciadorProjetos.deps.json
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\bin\Debug\net8.0\ProjGerenciadorProjetos.runtimeconfig.json
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\bin\Debug\net8.0\ProjGerenciadorProjetos.dll
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\bin\Debug\net8.0\ProjGerenciadorProjetos.pdb
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\obj\Debug\net8.0\ProjGerenciadorProjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\obj\Debug\net8.0\ProjGerenciadorProjetos.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\obj\Debug\net8.0\ProjGerenciadorProjetos.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\obj\Debug\net8.0\ProjGerenciadorProjetos.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\obj\Debug\net8.0\ProjGerenciadorProjetos.dll
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\obj\Debug\net8.0\refint\ProjGerenciadorProjetos.dll
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\obj\Debug\net8.0\ProjGerenciadorProjetos.pdb
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\obj\Debug\net8.0\ProjGerenciadorProjetos.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\ProjGerenciadorProjetos\ProjGerenciadorProjetos\obj\Debug\net8.0\ref\ProjGerenciadorProjetos.dll
