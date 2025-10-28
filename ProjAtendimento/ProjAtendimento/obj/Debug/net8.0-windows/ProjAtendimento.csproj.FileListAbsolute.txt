@@ -1,0 +1,16 @@
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\bin\Debug\net8.0-windows\ProjAtendimento.exe
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\bin\Debug\net8.0-windows\ProjAtendimento.deps.json
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\bin\Debug\net8.0-windows\ProjAtendimento.runtimeconfig.json
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\bin\Debug\net8.0-windows\ProjAtendimento.dll
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\bin\Debug\net8.0-windows\ProjAtendimento.pdb
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.FormPrincipal.resources
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.csproj.GenerateResource.cache
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.dll
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\refint\ProjAtendimento.dll
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.pdb
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ProjAtendimento.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\ProjAtendimento\ProjAtendimento\obj\Debug\net8.0-windows\ref\ProjAtendimento.dll
