@@ -1,0 +1,14 @@
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\bin\Debug\net8.0\ProjFilaMedicamentos.exe
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\bin\Debug\net8.0\ProjFilaMedicamentos.deps.json
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\bin\Debug\net8.0\ProjFilaMedicamentos.runtimeconfig.json
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\bin\Debug\net8.0\ProjFilaMedicamentos.dll
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\bin\Debug\net8.0\ProjFilaMedicamentos.pdb
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\obj\Debug\net8.0\ProjFilaMedicamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\obj\Debug\net8.0\ProjFilaMedicamentos.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\obj\Debug\net8.0\ProjFilaMedicamentos.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\obj\Debug\net8.0\ProjFilaMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\obj\Debug\net8.0\ProjFilaMedicamentos.dll
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\obj\Debug\net8.0\refint\ProjFilaMedicamentos.dll
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\obj\Debug\net8.0\ProjFilaMedicamentos.pdb
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\obj\Debug\net8.0\ProjFilaMedicamentos.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\ProjFilaMedicamentos\ProjFilaMedicamentos\obj\Debug\net8.0\ref\ProjFilaMedicamentos.dll
