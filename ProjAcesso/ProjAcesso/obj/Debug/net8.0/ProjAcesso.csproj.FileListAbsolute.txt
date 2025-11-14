@@ -1,0 +1,14 @@
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\bin\Debug\net8.0\ProjAcesso.exe
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\bin\Debug\net8.0\ProjAcesso.deps.json
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\bin\Debug\net8.0\ProjAcesso.runtimeconfig.json
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\bin\Debug\net8.0\ProjAcesso.dll
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\bin\Debug\net8.0\ProjAcesso.pdb
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\obj\Debug\net8.0\ProjAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\obj\Debug\net8.0\ProjAcesso.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\obj\Debug\net8.0\ProjAcesso.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\obj\Debug\net8.0\ProjAcesso.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\obj\Debug\net8.0\ProjAcesso.dll
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\obj\Debug\net8.0\refint\ProjAcesso.dll
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\obj\Debug\net8.0\ProjAcesso.pdb
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\obj\Debug\net8.0\ProjAcesso.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\ProjAcesso\ProjAcesso\obj\Debug\net8.0\ref\ProjAcesso.dll
