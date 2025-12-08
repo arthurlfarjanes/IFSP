@@ -1,0 +1,14 @@
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\bin\Debug\net8.0\ProjetoTransporte.exe
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\bin\Debug\net8.0\ProjetoTransporte.deps.json
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\bin\Debug\net8.0\ProjetoTransporte.runtimeconfig.json
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\bin\Debug\net8.0\ProjetoTransporte.dll
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\bin\Debug\net8.0\ProjetoTransporte.pdb
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\obj\Debug\net8.0\ProjetoTransporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\obj\Debug\net8.0\ProjetoTransporte.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\obj\Debug\net8.0\ProjetoTransporte.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\obj\Debug\net8.0\ProjetoTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\obj\Debug\net8.0\ProjetoTransporte.dll
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\obj\Debug\net8.0\refint\ProjetoTransporte.dll
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\obj\Debug\net8.0\ProjetoTransporte.pdb
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\obj\Debug\net8.0\ProjetoTransporte.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\ProjetoTransporte\ProjetoTransporte\obj\Debug\net8.0\ref\ProjetoTransporte.dll
